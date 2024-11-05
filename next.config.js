@@ -5,6 +5,8 @@ const nextConfig = {
       domains: ['obs-soltau.de'],
       unoptimized: true,
     },
+    assetPrefix: '/obs-soltau/',
+    basePath: '/obs-soltau',
     
   };
   
